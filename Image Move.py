@@ -1,5 +1,5 @@
 import cv2
-img = cv2.imread("C:\Users\91999\Downloads.jpg")
+img = cv2.imread("E:/1.jpg")
 x, y = 100, 100
 dx, dy = 50, 50
 def move_image():
